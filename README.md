@@ -65,7 +65,12 @@ A web-based application for managing a library system, developed using Spring Bo
   # Add Books 
      The admin can add multiple books at a time by dynamically adding and removing rows in the form. The current date will be stored automatically. Additionally, if we need to update the stock for existing books, the system will handle that. If a book is already present in the database, it will be updated accordingly.
 
+  
 ![New Books](https://github.com/user-attachments/assets/1896017e-87cc-427a-bb72-caa71d3d46e9)
+
+  # Issue Boooks To the User
+      Using using this form admin can able to issue books to perticular book he can issue multiple books as same after time period is over he will able to return a book from the same form just using transaction id 
+  ![image](https://github.com/user-attachments/assets/2e0e8eb5-0d3e-444f-bb0e-2b8ece2fb3d8)
 
 # Reports
   # For all users 

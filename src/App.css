@@ -1,0 +1,39 @@
+.book_div{
+    height: auto;
+    max-height: 300px;
+    overflow: hidden auto;
+
+}
+.back{
+    background-color: rgb(6, 80, 149);
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    height: 2em;
+    line-height: 2em;
+    margin-bottom: 2px;
+}
+h1{
+    text-align: center;
+}
+.nav-link{
+    color: white;
+    font-weight: bold;
+}
+.nav-link:hover{
+    color: white;
+}
+.navbar-brand{
+    color: white;
+    font-weight: bold;
+}
+.search{
+    border-radius: 5px;
+    padding: 5px;
+    border: 1px solid;
+
+}
+.search:focus{
+    border: 2px solid rgb(6, 80, 149);
+    
+}
